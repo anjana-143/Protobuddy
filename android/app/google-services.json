@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "265027111667",
+    "project_id": "protobuddy-3ee15",
+    "storage_bucket": "protobuddy-3ee15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265027111667:android:de87c9bb1f828c86b94586",
+        "android_client_info": {
+          "package_name": "com.example.protobuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265027111667-989qkqvta02qp133vm11ip8ho0k8hdq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_5f3iiUdGz7gE5bHxzAsS0qF9J5bZwG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265027111667-989qkqvta02qp133vm11ip8ho0k8hdq8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "265027111667-es8ub536bprm84jcn5r59hckb6l1t8td.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.anjana.protobuddy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265027111667:android:2e3d7203768734a3b94586",
+        "android_client_info": {
+          "package_name": "np.com.asbin.protobuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265027111667-989qkqvta02qp133vm11ip8ho0k8hdq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_5f3iiUdGz7gE5bHxzAsS0qF9J5bZwG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265027111667-989qkqvta02qp133vm11ip8ho0k8hdq8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "265027111667-es8ub536bprm84jcn5r59hckb6l1t8td.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.anjana.protobuddy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
